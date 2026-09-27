@@ -13,8 +13,8 @@ const GUNS = [
     type: 'Rifle',
     caliber: '7.62mm',
     price: 899,
-    //image: 'src/assets/guns/rifle.svg',
-    image: 'src/assets/guns/ak47.png',
+    image: 'src/assets/guns/rifle.svg',
+    //image: 'src/assets/guns/ak47.png',
     description:
       'Gas-operated, loose tolerances, and famously indifferent to mud. Seven decades of service and still the benchmark for a rifle that will not quit.',
   },
